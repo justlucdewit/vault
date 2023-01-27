@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/ccvm/CCVM.md",
+                "file": "projects/ccvm/Bytecode format.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/ccvm/CCVM.md",
+                "file": "projects/ccvm/Bytecode format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/ccvm/CCVM.md",
+                "file": "projects/ccvm/Bytecode format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/ccvm/CCVM.md"
+                "file": "projects/ccvm/Bytecode format.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "6e7fe7afb1d1397a",
   "lastOpenFiles": [
-    "projects/ccvm/Bytecode format.md",
     "projects/ccvm/CCVM.md",
+    "projects/ccvm/Bytecode format.md",
     "projects/Untitled.md"
   ]
 }
