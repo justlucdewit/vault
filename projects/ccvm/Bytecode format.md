@@ -19,4 +19,4 @@ This CCB is meant for CCVM version 1.0 or later.
 ---
 
 ## After the header
-After the header, the real program embedded within the CCB will start, this is essentially just a list of opcode instructions, varying in byte length. How these instructions are read, together with the full list of instructions will be written in other documentation.
+After the header, the real program embedded within the CCB will start, this is essentially just a list of opcode instructions, varying in byte length. How these instructions are read, together with the full list of instructions is documented in [[Instructions]]
