@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41ac7834359f79ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/ccvm/Instructions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/ccvm/Bytecode format.md",
+                "file": "projects/ccvm/Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/ccvm/Bytecode format.md",
+                "file": "projects/ccvm/Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,21 +138,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/ccvm/Bytecode format.md"
+                "file": "projects/ccvm/Instructions.md"
               }
             }
+          },
+          {
+            "id": "863e2c36ec96538b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "6e7fe7afb1d1397a",
+  "active": "863e2c36ec96538b",
   "lastOpenFiles": [
-    "projects/ccvm/CCVM.md",
     "projects/ccvm/Bytecode format.md",
+    "projects/ccvm/CCVM.md",
     "projects/Untitled.md"
   ]
 }
