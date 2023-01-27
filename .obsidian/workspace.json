@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "b4a83b914e05d379",
+    "type": "split",
+    "children": [
+      {
+        "id": "251bc70a0e1c9cd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e7fe7afb1d1397a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/ccvm/CCVM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddb50f644a90a139",
+    "type": "split",
+    "children": [
+      {
+        "id": "cadbbcd3268e5e2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b18734f8f7157f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7144cffb876ee312",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6eded46a709f9663",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bff1d5068c199e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8f63e2207575a52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99b05051b4bca5af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projects/ccvm/CCVM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79f85ae3c5da038c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "projects/ccvm/CCVM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2090ba31d0fd9f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a892903aab57f319",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "projects/ccvm/CCVM.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6e7fe7afb1d1397a",
+  "lastOpenFiles": [
+    "projects/ccvm/Bytecode format.md",
+    "projects/ccvm/CCVM.md",
+    "projects/Untitled.md"
+  ]
+}
